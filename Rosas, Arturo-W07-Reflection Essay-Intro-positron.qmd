@@ -1,0 +1,59 @@
+---
+title: "W07-Reflection Essay-Introduction to Positron"
+author: "Arturo Rosas"
+date: today
+theme: solar
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+```{r, echo=FALSE, results='asis'}
+cat("
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Essay Prompts & Responses](#essay-prompts--responses)
+- [Conclusion](#conclusion)
+")
+```
+
+## Essay Prompts:
+
+#### 1. Download and Install Positron. As you watch the videos in Step 1 and Step 3, follow the activities in the video and be familiar with Positron.
+
+I.  Response:
+
+    A.  Download and installed Positron. And watched both Step 1 and Step 3.
+
+#### 2. Based on what you learned from Step 1 and Step 3, what do you like about Positron compared with RStudio?
+
+I.  Response:
+
+    A.  What I love about Positron is the Positron assistant. I love that you can use the assistant to create certain sessions. Also love the inline suggestions that can be enabled as well. I also like the high-density telemetry such as: column label, data type, sparkline histogram and missing data indicator.
+
+#### 3. In Step 4, the video demonstrates how you can use AI.
+
+1.  Describe the various ways you can use AI inside Positron. Some are free while others are not.
+    1.  Response:
+        1.  AI Positron Assistant which has the capacity of contextual debugging of console errors. It is user driven and only acts on specific queries and strictly waits for human approval before applying changes. Inline editing this allows the data scientists to retain total control to accept, reject and modify the diff. There is also Databot. The primary uses would be Rapid Exploratory Data Ananlysis (EDA) on novel datasets, Bulk data cleaning across inconsistent files and Uncovering hidden correlations.
+2.  Which AI tools have you installed or set up? Which AI tools did you find beneficial for you?
+    I.  Response:
+        A.  I installed Positron Assistant, I fell it will benefit me more because I am still relatively new to coding and having the option to seek out help when struggling to find and correct code it seems it would make my life easier. Another thing it can help me create sessions that I can practice and possible benefit from to better sharpen my skillset in coding.
+3.  I strongly recommend using GitHub Copilot, which is free if you apply for an education account.
+    1.  Apply for it and take a screenshot showing you were accepted into the education program. \`\`\`
+
+![](images/GITHUB%20APPROVAL.png)
+
+2.  Play with it and do you find it helpful or distracting? Please elaborate.
+    I.  Response:
+        A.  I found it cool and also helpful. I just finished checking out some Michael Jordan related publishing and it gave me some insight and some inspiration for my website project. The publisher of the session I was looking through was able to create code to play a game that was controlled through the arrow keys which made it interactive for the audience.
+
+#### 4. Publish this report to GitHub Pages and provide a URL to the GitHub Pages for the report. Note that although both GitHub Pages and GitHub repo are online, they are different. GitHub Pages is a website publishing service that hosts the rendered HTML from a QMD file.
